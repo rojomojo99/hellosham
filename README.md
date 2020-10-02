@@ -6,3 +6,4 @@ html is used
 css is used
 hyper text markup language
 cascading style sheet
+js is used
