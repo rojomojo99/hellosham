@@ -7,3 +7,4 @@ css is used
 hyper text markup language
 cascading style sheet
 js is used
+javascript
